@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Stay vulnerable melting blush (rubor)",
+      "precio": "565",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw612522af/images/hi-res/boletos/Jazmin/RARE%20BEAUTY/rare-beautyNearlyMauve.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "2",
+      "nombre": "Positive light liquid luminizer (iluminador líquido facial)",
+      "precio": "640",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw8b0911ad/images/hi-res/iluminadores-rare-rare-positive-light-liquid-luminizer-iluminador-liquido-facial840122900150A.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "3",
+      "nombre": "Brow harmony flexible lifting gel (gel universal para cejas)",
+      "precio": "455",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dwfcb33250/images/hi-res/boletos/Roc%C3%ADo%20Mart%C3%ADnez/RARE%20BEAUTY/840122906640_0.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "4",
+      "nombre": "Soft pinch liquid blush (rubor líquido)",
+      "precio": "615",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw87d877e0/images/hi-res/blush-rare-rare-soft-pinch-liquid-blush-rubor-liquido840122900013A.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "5",
+      "nombre": "Soft pinch tinted lip oil (tinte labial en gel)",
+      "precio": "535",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw20a43f65/images/hi-res/boletos/Karla%20Nieto/RARE%20BEAUTY/840122905766_1.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "6",
+      "nombre": "Stay vulnerable melting blush (rubor)",
+      "precio": "565",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw612522af/images/hi-res/boletos/Jazmin/RARE%20BEAUTY/rare-beautyNearlyMauve.jpg?sw=1200&sh=1200&sm=fit"
+    },
+    {
+      "id": "4100",
+      "nombre": "Warm wishes effortless bronzer stick (barra bronceadora)",
+      "precio": "665",
+      "imagen": "https://www.sephora.com.mx/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/es_MX/dw4d0ff78b/images/hi-res/boletos/Karla%20Nieto/RARE%20BEAUTY/840122905889_1.jpg?sw=1200&sh=1200&sm=fit"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root{
+    --white-primary:#F4F4F4;
+    --primary:#BB2253;
+    --secondary:#EC185D;
+    --terciary:#FF9171;
+    --play:"Playfair Display", serif;;
+    --mont:"Montserrat", serif;
+}
+
+body{
+    font-family: var(--mont);
+}
+
+.navbar, footer{
+    background: var(--primary);
+    color: var(--white-primary) !important;
+}
+
+.navbar a{
+    color: var(--white-primary) !important;
+}
+.btn.btn-primary{
+    background: var(--secondary);
+    color: var(--white-primary);
+    border: none;
+    transition: 0.3s all ease-in-out;
+}
+
+
+.btn.btn-primary:hover, .btn.btn-primary:focus{
+    background: var(--primary);
+}
+
+.btn.btn-secondary{
+    border: 1px solid var(--primary);
+    background: transparent;
+    color: var(--primary);
+}
+
+.btn.btn-secondary:focus{
+    border: 1px solid var(--primary);
+    background: transparent;
+    color: var(--primary);
+}
+.card-product{
+    border: none;
+    box-shadow: 0px 0px 3px var(--primary);
+    border-radius: 15px;
+    height: 100%;
+}
+
+.img-product{
+    width: 100%;
+    border-radius: 15px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.title-product{
+    font-size: 16px;
+    font-family: var(--play);
+    margin: 0;
+}
+
+.price-product, i{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btns-actions{
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-content{
+    display: flex;
+    justify-content: end;
+    margin-top: 3rem;
+}
+
+footer{
+    padding: 2rem;
+}
